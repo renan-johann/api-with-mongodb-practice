@@ -8,3 +8,7 @@
 - [ ] Connect your API with a MongoDB database
 - [ ] Create searches for specific fields in the API
 
+### How to run the project
+`npm run dev`
+
+http://localhost:3000
