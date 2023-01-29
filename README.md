@@ -12,3 +12,11 @@
 `npm run dev`
 
 http://localhost:3000
+
+### API Specification
+
+GET http://localhost:3000/livros -> Buscar relação de livros
+GET http://localhost:3000/livros/{id} -> Buscar livro específico
+POST http://localhost:3000/livros -> Criar um novo livro
+PUT http://localhost:3000/livros/{id} -> Editar alguma informação
+DELETE http://localhost:3000/livros/{id} -> Excluir um livro
